@@ -248,7 +248,7 @@ Platform compatibility depends on the availability of the required compiler and 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/asterkv.git
+git clone https://github.com/ahmadullah-programmer-researcher/code_intelligence_platform.git
 ```
 
 Enter the project directory:
